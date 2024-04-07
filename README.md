@@ -13,6 +13,8 @@ The **Pull requests** tab contains proposals to make some changes in the files l
 
 You can create an *Issue* or make a *Pull request (PR)* to contribute to the project.
 
+This is editing my fork of the intro-to-github repo
+
 If you want to propose some changes to this repo, you may *fork* it, modify the content, and create *PR*. A *fork* is just a copy that allows you to change the content without affection the original project.
 
 This is my change to the readme.md file so that I can create a pull request. 
